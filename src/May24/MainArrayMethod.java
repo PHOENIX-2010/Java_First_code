@@ -3,9 +3,18 @@ package May24;
 public class MainArrayMethod {
     public static void main(String[] args) {
 
+        int[] arr = {12,23,543,23,45};
+
         ArrayUsingMethod aum = new ArrayUsingMethod();
-        aum.largestelement(new int[]{12, 23, 543, 23, 45, 10001, 23, 1243, 43, 23});
-        aum.minimumelement(new int[]{12, 23, 543, 23, 45, 10001, 23, 1243, 43, 23});
-        aum.printdetail();
+
+        int maxnumber = aum.largestelement(arr);
+        System.out.println("Largest number of array is: " +maxnumber);
+        int minnumber = aum.smallestelement(arr);
+        System.out.println("Smallest number of array is: " +minnumber);
+
+
+//        aum.largestelement(new int[]{12, 23, 543, 23, 45});
+//        aum.smallestelement(new int[]{12, 23, 543, 23, 45});
+//        aum.printdetail();
     }
 }
