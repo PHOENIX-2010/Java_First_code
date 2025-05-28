@@ -1,4 +1,4 @@
-## What is the difference between String,StringBuffer, and StringBuilder?
+## What is the difference between String, StringBuffer, and StringBuilder?
 Ans:- A String in Java is a class, a non-primitive data type, and it is immutable, meaning once a String object is created,
       value cannot be changed. On the other hand, StringBuffer and StringBuilder are mutable classes, which means their 
       content can be modified after creation. StringBuffer is thread-safe, and StringBuilder is not thread-safe.
