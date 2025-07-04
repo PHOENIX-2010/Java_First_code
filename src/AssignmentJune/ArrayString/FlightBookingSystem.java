@@ -1,8 +1,6 @@
-package AssignmentJune;
+package AssignmentJune.ArrayString;
 
-import javax.jws.soap.SOAPBinding;
 import java.util.Scanner;
-import java.util.logging.SocketHandler;
 
 public class FlightBookingSystem {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package AssignmentJune;
+package AssignmentJune.ArrayString;
 
 public class MovieRatingSystem {
     public static void main(String[] args) {

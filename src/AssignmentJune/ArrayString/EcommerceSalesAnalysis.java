@@ -1,4 +1,4 @@
-package AssignmentJune;
+package AssignmentJune.ArrayString;
 
 import java.util.Scanner;
 

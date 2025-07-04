@@ -1,6 +1,5 @@
-package AssignmentJune;
+package AssignmentJune.ArrayString;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class LibraryBookManagement {
