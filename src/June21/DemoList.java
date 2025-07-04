@@ -12,7 +12,7 @@ public class DemoList {
         oldlist.add(30);
         System.out.println(oldlist.get(1));
         System.out.println(oldlist);
-        oldlist.addFirst(1001);
+        //oldlist.addFirst(1001);
         System.out.println(oldlist);
         /*oldlist.clear();
         System.out.println(oldlist);*/
